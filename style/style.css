@@ -5,3 +5,29 @@
  body{
     font-family: 'Poppins', sans-serif;
 } 
+
+/* banner section  */
+
+
+
+
+/* responsive --------------------------------
+----------------------------------------------- */
+
+
+/* responsive banner carousel section  */
+
+/* 
+@media screen and (max-width:1679px) {
+    .carousel-inner, .carousel-inner img {
+height: 750px;
+
+}
+}
+@media screen and (max-width:1519px) {
+    .banner-title{
+        width: 80%;
+    }
+}
+
+ */

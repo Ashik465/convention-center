@@ -3012,9 +3012,9 @@ textarea.form-control-lg {
 }
 
 .btn-primary {
-  --bs-btn-color: #fff;
-  --bs-btn-bg: #0d6efd;
-  --bs-btn-border-color: #0d6efd;
+  --bs-btn-color: #3F87F5;
+  --bs-btn-bg: #FFFFFF;
+  --bs-btn-border-color: #FFFFFF;
   --bs-btn-hover-color: #fff;
   --bs-btn-hover-bg: #0b5ed7;
   --bs-btn-hover-border-color: #0a58ca;
@@ -6140,7 +6140,7 @@ textarea.form-control-lg {
 .carousel-indicators [data-bs-target] {
   box-sizing: content-box;
   flex: 0 1 auto;
-  width: 30px;
+  width: 70px;
   height: 3px;
   padding: 0;
   margin-right: 3px;
